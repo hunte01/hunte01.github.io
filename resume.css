@@ -320,8 +320,11 @@ article footer{
 		margin:0px;
 		}
 	#new_div{
-		display:block;
+		display: block;
 }
+	#side_news{
+	margin:30%;
+	margin-top:-10px;}
 }
 
 @media only screen and (max-width: 560px) {
@@ -347,8 +350,8 @@ article footer{
 		display:block;
 }
 	#side_news{
-		width:75%;
-    	margin:20px;}
+    	margin:25%;
+	margin-top:-10px;}
 	.arnold{
 		width:35%;
 	}
@@ -376,8 +379,8 @@ article footer{
 		display:block;
 }
 	#side_news{
-		width:75%;
-    	margin:20px;}
+    	margin:10%;
+	margin-top:-10px;}
 }
 @media only screen and (max-width: 360px) {
 	#big_wrapper{
@@ -401,8 +404,5 @@ article footer{
 		display:block;
 }
 	#side_news{
-		width:75%;
     	margin:20px;}
 }
-
-
