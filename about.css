@@ -129,3 +129,109 @@ article{
 	background:black;
 }
 
+@media only screen and (max-width: 767px) {
+		#big_wrapper{
+		margin:0px;
+		}
+	#new_div{
+		display: block;
+		margin-left:auto;
+	        margin-right:auto;
+		padding:10%;
+		}
+	#main_section{
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;}
+	
+}
+
+@media only screen and (max-width: 560px) {
+		#big_wrapper{
+		margin:0px;
+		}
+	#top_menu{
+		width:100%;
+		}
+	#top_menu ul a li{
+		width:11%;
+		font-size:11px;
+	}
+	#top_header h1{
+		text-indent:40px;
+		font-size:40px;
+}
+	#top_header h2{
+		text-indent:90px;
+		font-size:60%;
+}
+	#new_div{
+		display:block;
+		padding-left:0px;
+}
+	#main_section{
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;}
+	
+	.arnold{
+		width:35%;
+	}
+	.mygraduation{
+	 width:85%;
+	margin-left:20px;
+	margin-right:20px;}
+
+}
+
+@media only screen and (max-width: 375px) {
+	#big_wrapper{
+		margin:0px;}
+	#top_menu{
+		width:100%;
+		}
+	#top_menu ul a li{
+		width:11%;
+		font-size:11px;
+	}
+	#top_header h1{
+		text-indent:20px;
+		font-size:200%;
+}
+	#top_header h2{
+		text-indent:40px;
+		font-size:60%;
+}
+	#new_div{
+		display:block;
+}
+	.mygraduation{
+	 width:85%;
+	margin-left:20px;
+	margin-right:20px;}
+		
+}
+@media only screen and (max-width: 360px) {
+	#big_wrapper{
+		margin:0px;}
+	#top_menu{
+		width:100%;
+		}
+	#top_menu ul a li{
+		width:11%;
+		font-size:11px;
+	}
+	#top_header h1{
+		text-indent:20px;
+		font-size:200%;
+}
+	#top_header h2{
+		text-indent:40px;
+		font-size:60%;
+}
+	#new_div{
+		display:block;
+}
+	
+	
+}
